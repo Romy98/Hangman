@@ -9,7 +9,5 @@ is_over = False
 
 def word_to_guess(words):
     word = random.choice(words)
-    print(word)
-
-word_to_guess(words)
+    return word
 
