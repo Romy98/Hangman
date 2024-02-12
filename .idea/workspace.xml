@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28bfaf9d-5fb7-4dcc-9d49-58248cb47705" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Hangman.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="28bfaf9d-5fb7-4dcc-9d49-58248cb47705" name="Changes" comment="created function that selects a random word from a list of words" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +71,39 @@
       <option name="presentableId" value="Default" />
       <updated>1707157979857</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start of the project">
+      <option name="closed" value="true" />
+      <created>1707626315079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707626315079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created function that selects a random word from a lis  of words">
+      <option name="closed" value="true" />
+      <created>1707702066284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707702066284</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created function that selects a random word from a lis  of words">
+      <option name="closed" value="true" />
+      <created>1707702081166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707702081166</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created function that selects a random word from a list of words">
+      <option name="closed" value="true" />
+      <created>1707702181819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707702181819</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,5 +116,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start of the project" />
+    <MESSAGE value="created function that selects a random word from a lis  of words" />
+    <MESSAGE value="created function that selects a random word from a list of words" />
+    <option name="LAST_COMMIT_MESSAGE" value="created function that selects a random word from a list of words" />
   </component>
 </project>
