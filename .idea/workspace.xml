@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28bfaf9d-5fb7-4dcc-9d49-58248cb47705" name="Changes" comment="Deleted the masked_word function and included it in the choose_letter function that I just created.">
+    <list default="true" id="28bfaf9d-5fb7-4dcc-9d49-58248cb47705" name="Changes" comment="Change in the choose_letter function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707880387168</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Change in the choose_letter function">
+      <option name="closed" value="true" />
+      <created>1707882893049</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707882893049</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +166,7 @@
     <MESSAGE value="created function that selects a random word from a list of words" />
     <MESSAGE value="created function that censures the randomly picked word." />
     <MESSAGE value="Deleted the masked_word function and included it in the choose_letter function that I just created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted the masked_word function and included it in the choose_letter function that I just created." />
+    <MESSAGE value="Change in the choose_letter function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change in the choose_letter function" />
   </component>
 </project>
