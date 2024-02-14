@@ -14,7 +14,6 @@ def word_to_guess(words):
 def masked_word(word):
     word = list(word_to_guess(words))
     masked = []
-    print(word)
     for letter in word:
         masked.append('-')
     print(masked)
