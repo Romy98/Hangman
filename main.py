@@ -11,9 +11,12 @@ def word_to_guess(words):
     word = random.choice(words)
     return word
 
-def masked_word(word):
+def choose_letter():
     word = list(word_to_guess(words))
     masked = []
     for letter in word:
         masked.append('-')
-    print(masked)
+    print(f'This is the word you need to guess: {masked}\nIt has {len(masked)} letters')
+    letter = input('Enter a letter: ')
+
+choose_letter()
