@@ -11,3 +11,10 @@ def word_to_guess(words):
     word = random.choice(words)
     return word
 
+def masked_word(word):
+    word = list(word_to_guess(words))
+    masked = []
+    print(word)
+    for letter in word:
+        masked.append('-')
+    print(masked)
